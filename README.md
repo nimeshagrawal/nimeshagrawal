@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nimesh
-- 👀 MS(Research) Student @C.Tech IIT Delhi
+- 👀 MS(Research) Student @Computer-Technology IIT Delhi
 - 🌱 Working in the field of Graph Machine Learning
 
 
