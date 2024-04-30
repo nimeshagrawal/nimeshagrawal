@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nimesh
 - Research Software Engineer @ immunitoAI
 - MS(Research) in Computer-Technology @IIT Delhi
-- Research interests: Graph Machine Learning, Federated Learning, RecSys
+- Research interests: Graph Machine Learning, Federated Learning, RecSys, Machine Unlearning
 
 
 <!---
