@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nimesh
-- 👀 MS(Research) Student @Computer-Technology IIT Delhi
-- 🌱 Working in the field of Graph Machine Learning
+- Research Software Engineer @ immunitoAI
+- MS(Research) in Computer-Technology @IIT Delhi
+- Research interests: Graph Machine Learning, Federated Learning, RecSys
 
 
 <!---
